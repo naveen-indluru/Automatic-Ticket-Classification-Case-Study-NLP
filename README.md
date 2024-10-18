@@ -15,7 +15,7 @@ This project focuses on building an **automatic ticket classification** system u
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/naveen-indluru/Automatic-Ticket-Classification-Case-Study-NLP.git>
+   git clone https://github.com/naveen-indluru/Automatic-Ticket-Classification-Case-Study-NLP.git
 
 ## Usage
 
